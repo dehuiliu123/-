@@ -5,13 +5,6 @@
   <button @click="sub">减1</button>
 
   <button @click="add(1)">加1</button>
-
-  啦啦啦啦啦啦
-  <input
-    type="text"
-    :value="title"
-    @input="$emit('update:title', $event.target.value)"
-  />
 </template>
 
 <script>
