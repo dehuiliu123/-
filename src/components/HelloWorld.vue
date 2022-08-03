@@ -22,6 +22,7 @@ export default {
       num: 2,
       a: 3,
       c: 3,
+      d: 3,
     };
   },
   methods: {
