@@ -23,6 +23,7 @@ export default {
       a: 3,
       c: 3,
       d: 3,
+      x: 3,
     };
   },
   methods: {

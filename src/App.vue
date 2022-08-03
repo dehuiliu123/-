@@ -16,7 +16,6 @@ function awa() {
 onMounted(() => {
   function sub() {
     console.log(1);
-        console.log(1111111111111111111111111111);
   }
 });
 
