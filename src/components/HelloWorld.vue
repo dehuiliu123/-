@@ -20,6 +20,8 @@ export default {
   data() {
     return {
       num: 2,
+      a: 3,
+      c: 3,
     };
   },
   methods: {
